@@ -7,7 +7,7 @@ Sftwear Statement of Work (SOW)
 Project 5
 See D2L for due date.
 Instructions
-When submitting thes projects, zip all the folders for this project into a .zip file name project_3.zip Complete each of the following projects. Use as models the programs presented in class and available the D2L content area. Tutor information can be found at this here: http://www.cdm.depaul.edu/Current%20Students/Pages/TutoringProgram.aspx
+When submitting thes projects, zip all the folders for this project into a .zip file name project_3.zip Complete each of the following projects. Use as models the programs presented in class and available the D2L content area. 
 
 1. Enlarging an image (1/3 of points)
 Overview:
